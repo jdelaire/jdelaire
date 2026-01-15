@@ -1,4 +1,4 @@
-# Hi, I'm Jérémy 👋
+# Hi, I'm John 👋
 
 📍 Chiang Mai | 🗺️ Senior Software Engineer | ✈️ Building tools for learning, automation, and adventure
 
@@ -9,6 +9,7 @@
 - 🧪 **[learn-thai-quiz](https://github.com/jdelaire/learn-thai-quiz)**: An interactive web-based tool for practicing Thai consonants and tones.
 - 🗺️ **[thailand-essentials-apps](https://github.com/jdelaire/thailand-essentials-apps)**: A curated guide/list of essential apps for travelers and expats in Thailand.
 - 🤖 **[rednode-engagment-farmer](https://github.com/jdelaire/rednode-engagment-farmer)**: Python automation tools.
+- 🏋️ **[fitfriends](https://github.com/jdelaire/fitfriends)**: A personal fitness-related project.
 - 🌐 **[jdelaire.github.io](https://github.com/jdelaire/jdelaire.github.io)**: Personal landing page and project showcase.
 
 ---
@@ -26,8 +27,9 @@
 
 ### 📊 GitHub Stats
 
-![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdelaire&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdelaire&layout=compact&theme=radical)
+![John's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=jdelaire&show_icons=true&theme=radical)
+![John's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jdelaire&theme=radical)
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=jdelaire&layout=compact&theme=radical)
 
 ---
 
