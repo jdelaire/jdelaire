@@ -28,7 +28,6 @@
 ### 📊 GitHub Stats
 
 ![John's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=jdelaire&show_icons=true&theme=radical)
-![John's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jdelaire&theme=radical)
 ![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=jdelaire&layout=compact&theme=radical)
 
 ---
