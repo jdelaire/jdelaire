@@ -10,7 +10,6 @@
 - 🗺️ **[thailand-essentials-apps](https://github.com/jdelaire/thailand-essentials-apps)**: A curated guide/list of essential apps for travelers and expats in Thailand.
 - 🤖 **[rednode-engagment-farmer](https://github.com/jdelaire/rednode-engagment-farmer)**: Python automation tools.
 - 🏋️ **[fitfriends](https://github.com/jdelaire/fitfriends)**: A personal fitness-related project.
-- 🌐 **[jdelaire.github.io](https://github.com/jdelaire/jdelaire.github.io)**: Personal landing page and project showcase.
 - 📸 **[adobe-stock-automation](https://github.com/jdelaire/adobe-stock-automation)**: Automate your Adobe Stock contributor workflow. Generate optimized metadata (titles, keywords, categories) for photos and videos using AI, and process video clips with FCPXML cutting tools.
 
 ---
