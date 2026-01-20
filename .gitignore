@@ -1,0 +1,28 @@
+# General macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files on macOS (resource fork)
+Icon
+
+# Thumbnails and metadata
+._*
+.Spotlight-V100
+.Trashes
+
+# Time Machine
+.TemporaryItems
+.Saved Application State
+
+# Volume-specific
+.VolumeIcon.icns
+
+# AFP / SMB network shares
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+
+# macOS filesystem events
+.fseventsd
