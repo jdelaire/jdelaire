@@ -8,8 +8,8 @@
 
 - 🧪 **[learn-thai-quiz](https://github.com/jdelaire/learn-thai-quiz)**: An interactive web-based tool for practicing Thai consonants and tones.
 - 🗺️ **[thailand-essentials-apps](https://github.com/jdelaire/thailand-essentials-apps)**: A curated guide/list of essential apps for travelers and expats in Thailand.
-- 🤖 **[rednode-engagment-farmer](https://github.com/jdelaire/rednode-engagment-farmer)**: Python automation tools.
-- 🏋️ **[fitfriends](https://github.com/jdelaire/fitfriends)**: A personal fitness-related project.
+- 🤖 **[rednode-engagment-farmer](https://github.com/jdelaire/rednode-engagment-farmer)**: Python & Node-RED tooling for automating engagement tasks on social platforms — a bot framework to interact and boost activity in configurable ways. Includes a Playwright-based CLI bot for Xiaohongshu (小红书) engagement automation.
+- 🏋️ **[fitfriends](https://github.com/jdelaire/fitfriends)**: Tooling and templates for generating structured fitness sessions with linked exercise videos. Includes automation scripts and agent guidelines to streamline consistent workout content creation.
 - 📸 **[adobe-stock-automation](https://github.com/jdelaire/adobe-stock-automation)**: Automate your Adobe Stock contributor workflow. Generate optimized metadata (titles, keywords, categories) for photos and videos using AI, and process video clips with FCPXML cutting tools.
 
 ---
