@@ -12,6 +12,7 @@
 - 🏋️ **[fitfriends](https://github.com/jdelaire/fitfriends)**: Tooling and templates for generating structured fitness sessions with linked exercise videos. Includes automation scripts and agent guidelines to streamline consistent workout content creation.
 - 📸 **[adobe-stock-automation](https://github.com/jdelaire/adobe-stock-automation)**: Automate your Adobe Stock contributor workflow. Generate optimized metadata (titles, keywords, categories) for photos and videos using AI, and process video clips with FCPXML cutting tools.
 - 🎬 **[renderkit](https://github.com/jdelaire/renderkit)**: A comprehensive toolkit for video rendering and processing workflows. Includes automation scripts, templates, and utilities for efficient video production pipelines.
+- 📅 **[dayly](https://github.com/jdelaire/dayly)**: Minimal local-first expense tracker. One value per day. No categories. No backend.
 
 ---
 
