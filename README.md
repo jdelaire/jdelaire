@@ -13,6 +13,7 @@
 - 📸 **[adobe-stock-automation](https://github.com/jdelaire/adobe-stock-automation)**: Automate your Adobe Stock contributor workflow. Generate optimized metadata (titles, keywords, categories) for photos and videos using AI, and process video clips with FCPXML cutting tools.
 - 🎬 **[renderkit](https://github.com/jdelaire/renderkit)**: A comprehensive toolkit for video rendering and processing workflows. Includes automation scripts, templates, and utilities for efficient video production pipelines.
 - 📅 **[dayly](https://github.com/jdelaire/dayly)**: Minimal local-first expense tracker. One value per day. No categories. No backend.
+- 🏋️ **[set-strength-log](https://github.com/jdelaire/set-strength-log)**: Minimalist strength training log built for fast workout capture and clear progression. Privacy first. iOS native.
 - 📰 **[pushpress-cli](https://github.com/jdelaire/pushpress-cli)**: Deterministic transformer that converts PushPress workout JSON into clean, readable Markdown. Extracts only strength, weightlifting, conditioning, and accessories while removing warm ups, mobility, and level variants. Built for clarity, logging, and automation.
 - ✅ **[verifai](https://github.com/jdelaire/verifai)**: Probabilistic AI image analysis with provenance and confidence reporting.
 
