@@ -1,10 +1,17 @@
-# Hi, I'm John 👋
+# Welcome, I'm John ☄️
 
-📍 Chiang Mai | 🗺️ Senior Software Engineer | ✈️ Building tools for learning, automation, and adventure
+📍 Chiang Mai | 🗺️ Senior Software Engineer | ✈️ Building tools for learning, automation, adventure, and making my life easier.
 
 ---
 
-### 🚀 Current Projects
+### � Philosophie
+
+> **[The AI Native Software Engineer](https://github.com/jdelaire/the-ai-native-software-engineer)**
+> A reference framework for building software in an AI-augmented world. Focused on principles, methodology, and engineering discipline — not tools or hype. Distilled from 6 months of evolving my own process for working with AI. Tool-agnostic, abstraction-first, built to last.
+
+---
+
+### �🚀 Current Projects
 
 - 🧪 **[learn-thai-quiz](https://github.com/jdelaire/learn-thai-quiz)**: An interactive web-based tool for practicing Thai consonants and tones.
 - 🗺️ **[thailand-essentials-apps](https://github.com/jdelaire/thailand-essentials-apps)**: A curated guide/list of essential apps for travelers and expats in Thailand.
