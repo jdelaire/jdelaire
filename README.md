@@ -4,14 +4,14 @@
 
 ---
 
-### � Philosophie
+### 📖 Philosophie
 
 > **[The AI Native Software Engineer](https://github.com/jdelaire/the-ai-native-software-engineer)**
 > A reference framework for building software in an AI-augmented world. Focused on principles, methodology, and engineering discipline — not tools or hype. Distilled from 6 months of evolving my own process for working with AI. Tool-agnostic, abstraction-first, built to last.
 
 ---
 
-### �🚀 Current Projects
+### 🚀 Current Projects
 
 - 🧪 **[learn-thai-quiz](https://github.com/jdelaire/learn-thai-quiz)**: An interactive web-based tool for practicing Thai consonants and tones.
 - 🗺️ **[thailand-essentials-apps](https://github.com/jdelaire/thailand-essentials-apps)**: A curated guide/list of essential apps for travelers and expats in Thailand.
