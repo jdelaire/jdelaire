@@ -49,4 +49,4 @@
 
 ---
 
-📫 **How to reach me:** [X (Twitter)](https://x.com/therealdelairj) | [Instagram](https://instagram.com/john.dlr)
+📫 **How to reach me:** [X (Twitter)](https://x.com/therealdelairj) | [Instagram](https://instagram.com/john.dlr) | [LinkedIn](https://www.linkedin.com/in/jdelaire/)
