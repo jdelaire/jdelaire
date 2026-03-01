@@ -11,6 +11,12 @@
 
 ---
 
+### 🛳️ Released Products
+
+- 🌏 **[ThaiQuest](https://www.thaiquest.site)**: Master Thai through interactive quizzes: alphabet, numbers, colors, time, and more. Farm quizzes, level-up your Thai!
+
+---
+
 ### 🚀 Current Playground
 
 - 🔒 **[openslack](https://github.com/jdelaire/openslack)**: A security-first local automation daemon that bridges Telegram and your machine through a sealed Unix socket, enabling modular notifications and strictly allowlisted remote actions without exposing inbound ports.
