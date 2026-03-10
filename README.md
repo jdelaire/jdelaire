@@ -13,7 +13,7 @@
 
 ### 🛳️ Released Products
 
-- 🌏 **[ThaiQuest](https://www.thaiquest.site)**: Master Thai through interactive quizzes: alphabet, numbers, colors, time, and more. Farm quizzes, level-up your Thai!
+- 🌏 **ThaiQuest**: Master Thai through interactive quizzes: alphabet, numbers, colors, time, and more. Farm quizzes, level-up your Thai! [Web](https://www.thaiquest.site) · [iOS](https://apps.apple.com/th/app/thaiquest/id6759592901)
 
 ---
 
