@@ -20,6 +20,7 @@
 ### 🚀 Current Playground
 
 - 🔒 **[openslack](https://github.com/jdelaire/openslack)**: A security-first local automation daemon that bridges Telegram and your machine through a sealed Unix socket, enabling modular notifications and strictly allowlisted remote actions without exposing inbound ports.
+- 📈 **[opensocialdashboard](https://github.com/jdelaire/opensocialdashboard)**: Open-source dashboard for tracking daily follower and subscriber counts from public social profiles without OAuth.
 - 🧪 **[learn-thai-quiz](https://github.com/jdelaire/learn-thai-quiz)**: An interactive web-based tool for practicing Thai consonants and tones.
 - 🗺️ **[thailand-essentials-apps](https://github.com/jdelaire/thailand-essentials-apps)**: A curated guide/list of essential apps for travelers and expats in Thailand.
 - 🤖 **[rednode-engagment-farmer](https://github.com/jdelaire/rednode-engagment-farmer)**: Python & Node-RED tooling for automating engagement tasks on social platforms — a bot framework to interact and boost activity in configurable ways. Includes a Playwright-based CLI bot for Xiaohongshu (小红书) engagement automation.
