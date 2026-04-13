@@ -15,7 +15,7 @@
 
 - 🌏 **ThaiQuest**: Master Thai through interactive quizzes: alphabet, numbers, colors, time, and more. Farm quizzes, level-up your Thai! [Web](https://www.thaiquest.site) · [iOS](https://apps.apple.com/th/app/thaiquest/id6759592901)
 - 🏋️ **Set - Strength Log**: A minimalist strength-training logger — capture workouts via text, voice, photos, or Siri, track 1RM progression, and scan whiteboard percentages. Local-first with optional iCloud sync. [Web](https://set-app.pages.dev) · [iOS](https://apps.apple.com/us/app/set-strength-log/id6759079224)
-- 🙏 **Wat Kham**: Premium Thai-English spaced-repetition flashcards with 46 focused decks, FSRS scheduling, Thai TTS, and temple-inspired design. [Web](https://watkham.pages.dev) · [iOS](https://apps.apple.com/us/app/wat-kham/id6760705576)
+- 🙏 **Wat Kham**: Premium Thai-English spaced-repetition flashcards with more than 46 focused decks, FSRS scheduling, Thai TTS, and temple-inspired design. [Web](https://watkham.pages.dev) · [iOS](https://apps.apple.com/us/app/wat-kham/id6760705576)
 
 ---
 
