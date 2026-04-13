@@ -7,7 +7,7 @@
 ### 📖 Philosophy
 
 > **[The AI Native Software Engineer](https://github.com/jdelaire/the-ai-native-software-engineer)**
-> A reference framework for building software in an AI-augmented world. Focused on principles, methodology, and engineering discipline — not tools or hype. Distilled from 6 months of evolving my own process for working with AI. Tool-agnostic, abstraction-first, built to last.
+> A reference framework for building software in an AI-augmented world. Focused on principles, methodology, and engineering discipline — not tools or hype. Distilled from months of evolving my own process for working with AI. Tool-agnostic, abstraction-first, built to last.
 
 ---
 
