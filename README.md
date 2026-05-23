@@ -1,4 +1,4 @@
-# Welcome, I'm John ☄️
+# Welcome, I'm John!
 
 📍 Chiang Mai | 🗺️ Senior Software Engineer | ✈️ Building tools for learning, automation, adventure, and making my life easier.
 
@@ -55,10 +55,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![John's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=jdelaire&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=jdelaire&layout=compact&theme=radical)
+<p>
+  <img height="165" alt="GitHub stats for John Delaire" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jdelaire&amp;theme=github_dark" />
+  <img height="165" alt="Commit activity by hour for John Delaire" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jdelaire&amp;theme=github_dark&amp;utcOffset=7" />
+</p>
 
 ---
 
