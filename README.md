@@ -17,6 +17,7 @@
 - 🏋️ **Set - Strength Log**: A minimalist strength-training logger — capture workouts via text, voice, photos, or Siri, track 1RM progression, and scan whiteboard percentages. Local-first with optional iCloud sync. [Web](https://set-strength-log.pages.dev) · [iOS](https://apps.apple.com/us/app/set-strength-log/id6759079224)
 - 🙏 **Wat Kham**: Premium Thai-English spaced-repetition flashcards with 46 focused decks, FSRS scheduling, Thai TTS, and temple-inspired design. [Web](https://watkham.pages.dev) · [iOS](https://apps.apple.com/us/app/wat-kham/id6760705576)
 - 🌱 **CNX AthletX**: Plant-based protein powder from Chiang Mai, Thailand. Clean athletic everyday health. [Web](https://www.cnxnature.com)
+- 🏟️ **Cap Martin Athletics**: Bilingual website for a Roquebrune-Cap-Martin crosstraining and weightlifting gym, with schedules, pricing, coach profiles, and TeamUp booking links. [Web](https://www.capmartinathletics.com) · [Code](https://github.com/jdelaire/cfcapmartinwebsite)
 
 ---
 
