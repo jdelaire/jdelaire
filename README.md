@@ -23,6 +23,7 @@
 
 ### 🚀 Current Playground
 
+- 🧭 **[Codims](https://github.com/jdelaire/codims)**: Local 3D monitor for Codex threads and subagents. Renders projects as rooms, main threads as larger characters, and child agents as smaller workers, with active handoff arcs and thread inspection.
 - 🔒 **[openslack](https://github.com/jdelaire/openslack)**: A security-first local automation daemon that bridges Telegram and your machine through a sealed Unix socket, enabling modular notifications and strictly allowlisted remote actions without exposing inbound ports.
 - 📈 **[opensocialdashboard](https://github.com/jdelaire/opensocialdashboard)**: Open-source dashboard for tracking daily follower and subscriber counts from public social profiles without OAuth.
 - 👀 **[project-watcher](https://github.com/jdelaire/project-watcher)**: Local Git repository metrics and reporting tool that scans project directories, collects Git and line-count stats, and writes JSON, Markdown, HTML, CSV exports, and historical snapshots.
