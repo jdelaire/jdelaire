@@ -23,6 +23,7 @@
 
 ### 🚀 Current Playground
 
+- 🥏 **[Windjammers Remaster](https://github.com/jdelaire/windjammers-remaster)**: Browser reconstruction of Windjammers with all six characters and courts, solo, local versus, and online play. Uses original sprites, effects, and music with deterministic simulation. Full game parity remains in progress.
 - 🚦 **[SimLease](https://github.com/jdelaire/SimLease)**: Coordinates shared iOS Simulator access across agents and terminal sessions, with safe, explicitly confirmed stale-simulator cleanup.
 - 🧭 **[Codims](https://github.com/jdelaire/codims)**: Local 3D monitor for Codex threads and subagents. Renders projects as rooms, main threads as larger characters, and child agents as smaller workers, with active handoff arcs and thread inspection.
 - 🔒 **[openslack](https://github.com/jdelaire/openslack)**: A security-first local automation daemon that bridges Telegram and your machine through a sealed Unix socket, enabling modular notifications and strictly allowlisted remote actions without exposing inbound ports.
