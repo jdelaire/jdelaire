@@ -1,6 +1,6 @@
-# Welcome, I'm John!
+# Welcome, I'm Jonathan!
 
-📍 Chiang Mai | 🗺️ Senior Software Engineer | ✈️ Building tools for learning, automation, adventure, and making my life easier.
+📍 Chiang Mai | 🗺️ Ex-senior software engineer | 🤖 Shipping iOS apps & games solo with AI agents.
 
 ---
 
@@ -35,7 +35,6 @@
 - 📈 **[opensocialdashboard](https://github.com/jdelaire/opensocialdashboard)**: Open-source dashboard for tracking daily follower and subscriber counts from public social profiles without OAuth.
 - 👀 **[project-watcher](https://github.com/jdelaire/project-watcher)**: Local Git repository metrics and reporting tool that scans project directories, collects Git and line-count stats, and writes JSON, Markdown, HTML, CSV exports, and historical snapshots.
 - 🗺️ **[thailand-essentials-apps](https://github.com/jdelaire/thailand-essentials-apps)**: A curated guide/list of essential apps for travelers and expats in Thailand.
-- 🤖 **[rednode-engagment-farmer](https://github.com/jdelaire/rednode-engagment-farmer)**: Python & Node-RED tooling for automating engagement tasks on social platforms — a bot framework to interact and boost activity in configurable ways. Includes a Playwright-based CLI bot for Xiaohongshu (小红书) engagement automation.
 - 📸 **[adobe-stock-automation](https://github.com/jdelaire/adobe-stock-automation)**: Automate your Adobe Stock contributor workflow. Generate optimized metadata (titles, keywords, categories) for photos and videos using AI, and process video clips with FCPXML cutting tools.
 - 🎬 **[renderkit](https://github.com/jdelaire/renderkit)**: A provider-agnostic web app for AI video generation, with support for bringing your own API key and an optional server proxy.
 - 📅 **[dayly](https://github.com/jdelaire/dayly)**: Minimal local-first expense tracker. One value per day. No categories. No backend.
@@ -64,8 +63,8 @@
 ### 📊 GitHub Activity
 
 <p>
-  <img height="165" alt="GitHub stats for John Delaire" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jdelaire&amp;theme=github_dark" />
-  <img height="165" alt="Commit activity by hour for John Delaire" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jdelaire&amp;theme=github_dark&amp;utcOffset=7" />
+  <img height="165" alt="GitHub stats for Jonathan Delaire" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jdelaire&amp;theme=github_dark" />
+  <img height="165" alt="Commit activity by hour for Jonathan Delaire" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jdelaire&amp;theme=github_dark&amp;utcOffset=7" />
 </p>
 
 ---
