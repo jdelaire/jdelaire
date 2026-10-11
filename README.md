@@ -9,8 +9,8 @@
 - 💪 **Athlendra**: A coaching platform for managing clients, building training programs, scheduling sessions, and tracking exercise progress. [Web](https://athlendra.com)
 - 🐾 **AnimAtlas**: Identify animals with Apple Intelligence and turn real encounters into a private collection of species and breed cards. Preserve every sighting with original photos and a personal map. Local-first with optional iCloud sync. [Web](https://animatlas.app) · [iOS](https://apps.apple.com/app/id6792998018)
 - 🌏 **ThaiQuest**: Master Thai through interactive quizzes: alphabet, numbers, colors, time, and more. Farm quizzes, level-up your Thai! [Web](https://www.thaiquest.site) · [iOS](https://apps.apple.com/th/app/thaiquest/id6759592901)
-- 🏋️ **Set - Strength Insights**: A minimalist strength-training logger — capture workouts via text, voice, photos, or Siri, track 1RM progression, and scan whiteboard percentages. Local-first with optional iCloud sync. [iOS](https://apps.apple.com/us/app/set-strength-insights/id6759079224)
-- 🙏 **Wat Kham**: Premium Thai-English spaced-repetition flashcards with 46 focused decks, FSRS scheduling, Thai TTS, and temple-inspired design. [Web](https://watkham.pages.dev) · [iOS](https://apps.apple.com/us/app/wat-kham/id6760705576)
+- 🏋️ **Set - Strength Insights**: A minimalist strength-training logger — capture workouts via text, voice, photos, or Siri, track 1RM progression, and scan whiteboard percentages. Local-first with optional iCloud sync. [Web](https://set.jdelaire.com) · [iOS](https://apps.apple.com/us/app/set-strength-insights/id6759079224)
+- 🙏 **Wat Kham**: Premium Thai-English spaced-repetition flashcards with 46 focused decks, FSRS scheduling, Thai TTS, and temple-inspired design. [Web](https://watkham.jdelaire.com) · [iOS](https://apps.apple.com/us/app/wat-kham/id6760705576)
 - 🌱 **CNX AthletX**: Plant-based protein powder from Chiang Mai, Thailand. Clean athletic everyday health. [Web](https://www.cnxnature.com)
 - 🏟️ **Cap Martin Athletics**: Bilingual website for a Roquebrune-Cap-Martin crosstraining and weightlifting gym, with schedules, pricing, coach profiles, and TeamUp booking links. [Web](https://www.capmartinathletics.com)
 
@@ -37,7 +37,7 @@
 - 🗺️ **[thailand-essentials-apps](https://github.com/jdelaire/thailand-essentials-apps)**: A curated guide/list of essential apps for travelers and expats in Thailand.
 - 📸 **[adobe-stock-automation](https://github.com/jdelaire/adobe-stock-automation)**: Automate your Adobe Stock contributor workflow. Generate optimized metadata (titles, keywords, categories) for photos and videos using AI, and process video clips with FCPXML cutting tools.
 - 🎬 **[renderkit](https://github.com/jdelaire/renderkit)**: A provider-agnostic web app for AI video generation, with support for bringing your own API key and an optional server proxy.
-- 📅 **[dayly](https://github.com/jdelaire/dayly)**: Minimal local-first expense tracker. One value per day. No categories. No backend.
+- 📅 **[dayly](https://github.com/jdelaire/dayly)**: Minimal local-first expense tracker. One value per day. No categories. No backend. [Web](https://dayly.jdelaire.com)
 - ⏱️ **[hourblock](https://github.com/jdelaire/hourblock)**: Local-first billable time tracker with a live meter, client rates, monthly totals, and CSV export.
 - ⚖️ **[scale](https://github.com/jdelaire/scale)**: iOS app for scanning Xiaomi Body Composition Scale S400 BLE advertisements and exporting results to Apple Health.
 - 📰 **[pushpress-cli](https://github.com/jdelaire/pushpress-cli)**: Deterministic transformer that converts PushPress workout JSON into clean, readable Markdown. Extracts only strength, weightlifting, conditioning, and accessories while removing warm ups, mobility, and level variants. Built for clarity, logging, and automation.
