@@ -11,6 +11,7 @@
 - 🌏 **ThaiQuest**: Master Thai through interactive quizzes: alphabet, numbers, colors, time, and more. Farm quizzes, level-up your Thai! [Web](https://www.thaiquest.site) · [iOS](https://apps.apple.com/th/app/thaiquest/id6759592901)
 - 🏋️ **Set - Strength Insights**: A minimalist strength-training logger — capture workouts via text, voice, photos, or Siri, track 1RM progression, and scan whiteboard percentages. Local-first with optional iCloud sync. [Web](https://set.jdelaire.com) · [iOS](https://apps.apple.com/us/app/set-strength-insights/id6759079224)
 - 🙏 **Wat Kham**: Premium Thai-English spaced-repetition flashcards with 46 focused decks, FSRS scheduling, Thai TTS, and temple-inspired design. [Web](https://watkham.jdelaire.com) · [iOS](https://apps.apple.com/us/app/wat-kham/id6760705576)
+- 💱 **mybudget**: Multi-currency budget app for expats and digital nomads. Each amount keeps the currency you paid in, and the month shows as one total in the currency you think in, using daily rates for about 160 currencies. [Web](https://mybudget.jdelaire.com)
 - 🌱 **CNX AthletX**: Plant-based protein powder from Chiang Mai, Thailand. Clean athletic everyday health. [Web](https://www.cnxnature.com)
 - 🏟️ **Cap Martin Athletics**: Bilingual website for a Roquebrune-Cap-Martin crosstraining and weightlifting gym, with schedules, pricing, coach profiles, and TeamUp booking links. [Web](https://www.capmartinathletics.com)
 
