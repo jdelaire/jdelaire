@@ -18,6 +18,8 @@
 
 ### 🚀 Current Playground
 
+- 🗂️ **[SkillShelf](https://github.com/jdelaire/SkillShelf)**: macOS app that lists agent skills installed for Claude Code, Codex, Cursor, OpenCode, Grok, and Antigravity, shows where each one lives, moves unwanted ones to the Trash, and symlinks a skill into every harness. Signed, notarized, and self-updating. [Download](https://github.com/jdelaire/SkillShelf/releases/latest)
+- 🧰 **[jdstack](https://github.com/jdelaire/jdstack)**: Agent skills I write and maintain, including a multi-model creative council, a weekly iOS release cycle from backlog to App Store, and a roadmap writer.
 - 🕹️ **NeosliveR's World**: A walkable 3D arcade inspired by 1980s Tokyo, with 40 Neo Geo games, cabinet emulation, UFO catchers, and other arcade activities. [Login-protected demo](https://neosliversworld.jdelaire.com)
 - 🥏 **[Windjammers Remaster](https://wdjrmstr.jdelaire.com)**: Browser reconstruction of Windjammers with all six characters and courts, solo, local versus, and online play. Uses original sprites, effects, and music with deterministic simulation. Full game parity remains in progress.
 - 💪 **[Athlendra CLI](https://github.com/jdelaire/athlendra-cli)**: Command-line access to Athlendra's agent REST API, with browser OAuth and secure credential storage.
